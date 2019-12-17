@@ -8,7 +8,6 @@ class AppsPages extends StatefulWidget {
 
 class _AppsPagesState extends State<AppsPages> {
 
-
   @override
   Widget build(BuildContext context) {
     return FutureBuilder(
